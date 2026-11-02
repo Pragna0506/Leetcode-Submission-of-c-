@@ -7,6 +7,7 @@
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
+| [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
