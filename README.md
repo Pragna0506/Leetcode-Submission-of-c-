@@ -67,4 +67,5 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
