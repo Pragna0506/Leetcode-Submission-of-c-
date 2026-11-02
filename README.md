@@ -26,10 +26,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0024-swap-nodes-in-pairs) |
 ## Hash Table
 |  |
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
