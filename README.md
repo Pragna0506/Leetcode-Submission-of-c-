@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Dynamic Programming
 |  |
@@ -12,6 +13,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Sorting
 |  |
