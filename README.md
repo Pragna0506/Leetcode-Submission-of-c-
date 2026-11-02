@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0005-longest-palindromic-substring) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -45,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0005-longest-palindromic-substring) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -68,4 +70,12 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
