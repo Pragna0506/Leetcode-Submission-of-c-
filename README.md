@@ -19,4 +19,12 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
