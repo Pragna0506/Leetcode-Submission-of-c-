@@ -60,6 +60,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0061-rotate-list) |
 ## Manacher
 |  |
 | ------- |
