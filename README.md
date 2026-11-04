@@ -23,6 +23,7 @@
 | [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0057-insert-interval) |
+| [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -80,6 +81,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
@@ -152,6 +154,7 @@
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
