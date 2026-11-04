@@ -15,6 +15,7 @@
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0046-permutations) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -124,6 +125,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0046-permutations) |
 ## Stack
 |  |
 | ------- |
