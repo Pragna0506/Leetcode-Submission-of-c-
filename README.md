@@ -24,6 +24,7 @@
 | [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -94,6 +95,7 @@
 | [0038-count-and-say](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -155,6 +157,7 @@
 | [0051-n-queens](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -198,4 +201,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
