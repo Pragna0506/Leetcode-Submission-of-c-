@@ -10,6 +10,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -124,4 +125,5 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
