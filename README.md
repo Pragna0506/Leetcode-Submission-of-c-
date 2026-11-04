@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0027-remove-element) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -91,6 +92,7 @@
 | [0011-container-with-most-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0027-remove-element) |
 ## Manacher
 |  |
 | ------- |
