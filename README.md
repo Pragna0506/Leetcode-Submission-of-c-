@@ -172,6 +172,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0094-binary-tree-inorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -214,8 +215,17 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0094-binary-tree-inorder-traversal) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
