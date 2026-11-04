@@ -25,6 +25,7 @@
 | [0057-insert-interval](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -55,6 +56,7 @@
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -139,6 +141,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
 ## Manacher
 |  |
 | ------- |
