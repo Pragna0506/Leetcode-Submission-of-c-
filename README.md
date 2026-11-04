@@ -41,6 +41,7 @@
 | [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0091-decode-ways) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -101,6 +102,7 @@
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0091-decode-ways) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
