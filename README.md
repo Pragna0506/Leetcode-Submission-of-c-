@@ -20,6 +20,7 @@
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -45,6 +46,7 @@
 | ------- |
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
