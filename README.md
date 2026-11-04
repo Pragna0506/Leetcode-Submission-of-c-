@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -21,6 +22,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -104,6 +106,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 ## Manacher
 |  |
 | ------- |
@@ -122,6 +125,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -131,4 +135,8 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
