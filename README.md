@@ -36,6 +36,7 @@
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -121,6 +122,7 @@
 | [0009-palindrome-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -188,4 +190,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
