@@ -17,6 +17,7 @@
 | [0045-jump-game-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -61,6 +63,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -75,6 +78,7 @@
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
