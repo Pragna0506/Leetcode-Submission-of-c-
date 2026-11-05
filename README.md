@@ -70,6 +70,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Matrix
 |  |
 | ------- |
@@ -238,6 +240,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -263,4 +267,5 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 <!---LeetCode Topics End-->
