@@ -46,6 +46,7 @@
 | [0860-lemonade-change](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -69,6 +70,7 @@
 | [0647-palindromic-substrings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Greedy
 |  |
 | ------- |
@@ -97,6 +99,7 @@
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
 | [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Linked List
 |  |
 | ------- |
