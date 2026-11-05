@@ -61,6 +61,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
+| [0647-palindromic-substrings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +150,7 @@
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -204,6 +206,7 @@
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
+| [0647-palindromic-substrings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
 | ------- |
