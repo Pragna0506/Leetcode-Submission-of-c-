@@ -43,6 +43,7 @@
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0860-lemonade-change) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -77,6 +78,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0860-lemonade-change) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
