@@ -221,6 +221,7 @@
 | [0101-symmetric-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -236,6 +237,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -259,4 +262,5 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
