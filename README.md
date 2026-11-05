@@ -32,6 +32,7 @@
 | [0135-candy](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
@@ -152,6 +153,7 @@
 | [0062-unique-paths](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
