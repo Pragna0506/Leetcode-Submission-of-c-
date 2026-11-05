@@ -45,6 +45,7 @@
 | [0091-decode-ways](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -109,6 +110,7 @@
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -174,6 +176,7 @@
 | [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
