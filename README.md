@@ -195,6 +195,7 @@
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -247,6 +248,7 @@
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Matrix
 |  |
 | ------- |
@@ -265,6 +267,7 @@
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,6 +282,7 @@
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
