@@ -48,6 +48,7 @@
 | [1094-car-pooling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1094-car-pooling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -465,6 +466,7 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -493,8 +495,25 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
