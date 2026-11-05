@@ -181,6 +181,7 @@
 | [0771-jewels-and-stones](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1796-second-largest-digit-in-a-string) |
+| [2409-count-days-spent-together](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
@@ -216,6 +217,7 @@
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
 | ------- |
