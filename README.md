@@ -41,6 +41,7 @@
 | [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
+| [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -257,6 +258,7 @@
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
 ## Monotonic Stack
 |  |
 | ------- |
