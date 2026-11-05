@@ -346,6 +346,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -417,6 +418,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -469,6 +471,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -498,6 +501,7 @@
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
