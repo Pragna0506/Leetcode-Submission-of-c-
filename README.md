@@ -55,6 +55,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 | [0136-single-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String
 |  |
 | ------- |
@@ -188,6 +190,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1796-second-largest-digit-in-a-string) |
 | [2409-count-days-spent-together](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -316,6 +319,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0053-maximum-subarray) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -358,6 +362,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +391,7 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -541,9 +547,11 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
