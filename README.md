@@ -210,6 +210,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -327,4 +328,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
