@@ -108,6 +108,7 @@
 | [0058-length-of-last-word](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0125-valid-palindrome) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -151,6 +152,7 @@
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0125-valid-palindrome) |
 ## Manacher
 |  |
 | ------- |
