@@ -37,6 +37,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
+| [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -225,6 +226,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -242,6 +244,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
 ## Algorithm X
 |  |
 | ------- |
