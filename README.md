@@ -54,6 +54,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -356,10 +357,12 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## DP on Trees
 |  |
 | ------- |
@@ -511,6 +515,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
