@@ -142,6 +142,7 @@
 | [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0541-reverse-string-ii) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -194,6 +195,7 @@
 | [0234-palindrome-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
+| [0541-reverse-string-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0541-reverse-string-ii) |
 ## Manacher
 |  |
 | ------- |
