@@ -42,6 +42,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0739-daily-temperatures) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -244,6 +245,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -264,6 +266,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0739-daily-temperatures) |
 ## Algorithm X
 |  |
 | ------- |
