@@ -239,6 +239,7 @@
 | [0079-word-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
+| [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 ## Stack
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0572-subtree-of-another-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 ## Matrix
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 ## DP on Trees
 |  |
 | ------- |
@@ -423,4 +426,12 @@
 | ------- |
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
