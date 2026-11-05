@@ -165,6 +165,7 @@
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0771-jewels-and-stones) |
+| [1021-remove-outermost-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1021-remove-outermost-parentheses) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
@@ -258,10 +259,12 @@
 | [0234-palindrome-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1021-remove-outermost-parentheses) |
 ## Binary Search
 |  |
 | ------- |
