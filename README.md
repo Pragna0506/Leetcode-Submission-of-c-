@@ -103,6 +103,7 @@
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -128,6 +129,7 @@
 | [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
