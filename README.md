@@ -113,6 +113,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
+| [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -143,6 +144,7 @@
 | [0344-reverse-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -196,6 +198,7 @@
 | [0344-reverse-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
 ## Manacher
 |  |
 | ------- |
@@ -372,4 +375,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0374-guess-number-higher-or-lower) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
