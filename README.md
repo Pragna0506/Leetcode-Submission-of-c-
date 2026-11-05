@@ -56,7 +56,6 @@
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3882-minimum-xor-path-in-a-grid) |
-| [3886-sum-of-sortable-integers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,7 +110,6 @@
 | [1094-car-pooling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1094-car-pooling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2089-find-target-indices-after-sorting-array) |
-| [3886-sum-of-sortable-integers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
@@ -228,7 +226,6 @@
 | [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2409-count-days-spent-together) |
-| [3886-sum-of-sortable-integers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -553,8 +550,4 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
-## Enumeration
-|  |
-| ------- |
-| [3886-sum-of-sortable-integers](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
