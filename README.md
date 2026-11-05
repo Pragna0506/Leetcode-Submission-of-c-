@@ -40,6 +40,7 @@
 | [0485-max-consecutive-ones](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -70,6 +71,7 @@
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
@@ -80,6 +82,7 @@
 | [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 | [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -387,4 +391,12 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0572-subtree-of-another-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
