@@ -122,6 +122,7 @@
 | [0125-valid-palindrome](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0151-reverse-words-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -168,6 +169,7 @@
 | [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
+| [0151-reverse-words-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0151-reverse-words-in-a-string) |
 ## Manacher
 |  |
 | ------- |
