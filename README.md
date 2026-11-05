@@ -98,6 +98,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -384,6 +385,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
+| [0707-design-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
