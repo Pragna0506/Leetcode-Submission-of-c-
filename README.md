@@ -333,6 +333,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0572-subtree-of-another-tree) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -358,6 +359,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -379,6 +381,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -398,6 +401,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0797-all-paths-from-source-to-target) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
