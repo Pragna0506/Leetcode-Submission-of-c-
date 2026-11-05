@@ -44,6 +44,7 @@
 | [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -227,6 +228,7 @@
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@
 | [0110-balanced-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -271,4 +275,8 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
