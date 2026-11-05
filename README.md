@@ -230,6 +230,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Tree
 |  |
@@ -238,6 +239,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 ## Binary Search Tree
 |  |
@@ -248,5 +250,6 @@
 | ------- |
 | [0100-same-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 <!---LeetCode Topics End-->
