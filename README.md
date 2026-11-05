@@ -66,6 +66,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0647-palindromic-substrings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +198,7 @@
 | [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
+| [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
 ## Two Pointers
 |  |
 | ------- |
@@ -271,6 +273,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
+| [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
 ## Monotonic Stack
 |  |
 | ------- |
