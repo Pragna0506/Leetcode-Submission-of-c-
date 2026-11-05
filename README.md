@@ -35,6 +35,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
@@ -73,6 +74,7 @@
 | [0049-group-anagrams](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -106,6 +108,7 @@
 | [0139-word-break](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -113,6 +116,7 @@
 | [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
@@ -164,6 +168,7 @@
 | [0069-sqrtx](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +231,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
 ## Monotonic Stack
 |  |
 | ------- |
