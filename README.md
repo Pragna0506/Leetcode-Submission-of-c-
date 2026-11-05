@@ -44,6 +44,7 @@
 | [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0739-daily-temperatures) |
 | [0860-lemonade-change](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0860-lemonade-change) |
+| [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
 |  |
@@ -92,6 +94,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
+| [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 ## Linked List
 |  |
 | ------- |
@@ -451,4 +454,12 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0787-cheapest-flights-within-k-stops) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
