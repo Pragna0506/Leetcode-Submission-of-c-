@@ -52,6 +52,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
 |  |
@@ -147,6 +148,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1796-second-largest-digit-in-a-string) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -533,8 +535,10 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
