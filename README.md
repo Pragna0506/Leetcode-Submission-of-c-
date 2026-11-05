@@ -30,6 +30,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0136-single-number) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
@@ -97,6 +98,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## String
 |  |
