@@ -55,6 +55,7 @@
 | [0131-palindrome-partitioning](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
@@ -137,6 +138,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
@@ -188,6 +190,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0392-is-subsequence) |
 ## Manacher
 |  |
 | ------- |
