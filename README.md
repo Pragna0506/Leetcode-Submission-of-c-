@@ -36,6 +36,7 @@
 | [0152-maximum-product-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
@@ -75,6 +76,7 @@
 | [0056-merge-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0435-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -109,6 +111,7 @@
 | [0141-linked-list-cycle](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -246,6 +249,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -352,4 +356,20 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0225-implement-stack-using-queues) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
