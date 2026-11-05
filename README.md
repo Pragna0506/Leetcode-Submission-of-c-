@@ -49,6 +49,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1584-min-cost-to-connect-all-points) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## Dynamic Programming
@@ -103,6 +104,7 @@
 | [1029-two-city-scheduling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1094-car-pooling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -291,6 +293,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0704-binary-search) |
 | [0887-super-egg-drop](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0887-super-egg-drop) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
 | ------- |
