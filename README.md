@@ -125,6 +125,7 @@
 | [0567-permutation-in-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0771-jewels-and-stones) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Bit Manipulation
 |  |
@@ -159,6 +160,7 @@
 | [0647-palindromic-substrings](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0686-repeated-string-match) |
 | [0767-reorganize-string](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0767-reorganize-string) |
+| [0771-jewels-and-stones](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/0771-jewels-and-stones) |
 | [2942-find-words-containing-character](https://github.com/Pragna0506/Leetcode-Submission-of-c-/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
