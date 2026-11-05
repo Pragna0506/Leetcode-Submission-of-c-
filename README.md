@@ -1,4 +1,20 @@
-# Leetcode-Submission-of-c-
+# Leetcode-Submission-of-c++
+Summary
+Total Solved
+166
+Problems
+Beats 90.2%
+Easy
+64
+Med.
+88
+Hard
+14
+Submissions
+682
+Acceptance
+59.5%
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
